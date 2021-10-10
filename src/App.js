@@ -1,7 +1,13 @@
 import React from "react";
+import GlobalStyle from "./components/Global";
 
 function App() {
-  return <div>팔레트</div>;
+  return (
+    <>
+      <GlobalStyle />
+      <div>팔레트</div>
+    </>
+  );
 }
 
 export default App;
