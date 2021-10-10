@@ -11,6 +11,7 @@ const GlobalStyle = createGlobalStyle`
         height: 100%;
         background-color: #34ace0;
         background-image: url(${stars});
+        font-family: 'Roboto Mono', monospace;
     }
 `;
 
