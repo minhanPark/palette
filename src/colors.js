@@ -2,7 +2,7 @@ const colors = [
   {
     name: "defo",
     colorList: [
-      { colorName: "TURQUOISE", hex: "1abc9c", rgb: "rgb(26, 188, 156)" },
+      { colorName: "TURQUOISE", hex: "#1abc9c", rgb: "rgb(26, 188, 156)" },
       { colorName: "EMERALD", hex: "#2ecc71", rgb: "rgb(46, 204, 113)" },
       { colorName: "PETER RIVER", hex: "#3498db", rgb: "rgb(52, 152, 219)" },
       { colorName: "AMETHYST", hex: "#9b59b6", rgb: "rgb(155, 89, 182)" },
